@@ -1,0 +1,97 @@
+body {
+  font-family: Roboto;
+  margin: 0;
+}
+
+.first-box {
+  padding-bottom: 150px;
+}
+
+.second-box {
+}
+
+.third-box {
+}
+
+.fourth-box {
+}
+
+.hero-main-text {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 900;
+  margin: 0;
+  padding: 0;
+}
+
+.top-content-box {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 100px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 25px;
+}
+
+.logo-text {
+  font-size: 24px;
+  color: #f9faf8;
+  margin: 0;
+  padding-left: 150px;
+}
+
+img {
+}
+
+.sign-up {
+  font-size: 18px;
+  background-color: #3882f6;
+  color: #e5e7eb;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 30px;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  gap: 20px;
+  margin: 0;
+  padding-right: 150px;
+}
+
+.hero-secondary-text,
+a {
+  font-size: 18px;
+  color: #e5e7eb;
+  margin: 8px 0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.introduction {
+  width: 450px;
+}
+
+.placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  background-color: grey;
+  color: #e5e7eb;
+}
+
+.call-to-action {
+}
+
+.first-box,
+.footer {
+  background-color: #1f2937;
+}
